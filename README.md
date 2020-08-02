@@ -1,2 +1,2 @@
 # study-group
-Materials for Study Group
+Materials for Study Group.
